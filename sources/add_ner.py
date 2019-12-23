@@ -71,3 +71,5 @@ for folder in folders:
                         f.write(element+'\n')
                     else:
                         f.write(element+'\t')
+
+print('Xin chao cac ban')
