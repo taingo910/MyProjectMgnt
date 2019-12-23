@@ -73,5 +73,4 @@ for folder in folders:
                         f.write(element+'\t')
 
 print('Xin chào các bạn')
-
 print('Đây chỉ là file code demo')
