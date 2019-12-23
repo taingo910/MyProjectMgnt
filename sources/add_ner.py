@@ -72,4 +72,5 @@ for folder in folders:
                     else:
                         f.write(element+'\t')
 
-print('Xin chao cac ban')
+print('Xin chào các bạn')
+print('Đây chỉ là file code demo')
